@@ -107,7 +107,8 @@ O circuito ESP32/HC-SR04/LCD/LEDs/buzzer está em [`physical-computing/wokwi`](p
   - **Detalhe do ponto:** ![Detalhe do ponto](docs/screenshots/detalhe-do-ponto.png)
   - **Observações e relatos:** ![Histórico de observações e relatos](docs/screenshots/observacoes-e-relatos.png)
   - **Registrar observação:** ![Formulário para registrar observação](docs/screenshots/novo-relato.png)
-- Vídeo demonstrativo do app (até 3 min): link pendente.
+- Roteiro do vídeo demonstrativo do app (até 3 min): [`entregaveis/roteiro-video-app.md`](entregaveis/roteiro-video-app.md).
+- Vídeo demonstrativo do app: link pendente de gravação/publicação.
 - Vídeo de Physical Computing (até 4 min): link pendente; roteiro em [`entregaveis/roteiro-video-physical-computing.md`](entregaveis/roteiro-video-physical-computing.md).
 
 ### Integrantes
