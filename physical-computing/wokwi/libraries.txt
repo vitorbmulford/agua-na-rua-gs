@@ -1,0 +1,2 @@
+# Bibliotecas instaladas pelo Library Manager do Wokwi
+LiquidCrystal I2C@1.1.2
