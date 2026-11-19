@@ -1,4 +1,8 @@
-# Água na Rua — CitizenTech
+# GS 2026.2 - CitizenTech - Mobile Development & IoT
+
+## Aplicativo Água na Rua
+
+Este repositório contém a entrega da disciplina **Mobile Development & IoT** para a Global Solution **GS 2026.2 - CitizenTech**.
 
 Protótipo mobile para organizar observações sobre pontos sujeitos a alagamento no Jardim Peri, São Paulo. A interface distingue observações recentes, antigas e ausentes, mostra origem e horário, permite salvar favoritos e registrar relatos locais de demonstração.
 
